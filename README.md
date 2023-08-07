@@ -1,5 +1,5 @@
 # Olá!
-- :books: Cursando 1º semestre de Tecnologia em Sistemas para Internet na FIAP;
+- :books: Cursando 2º semestre de Tecnologia em Sistemas para Internet na FIAP;
 - :mortar_board: Técnico em Informática para Internet pela Etec de Francisco Morato (CPS);
 - :dart: Buscando uma oportunidade para praticar meus conhecimentos até aqui adquiridos, agregar e aprender cada vez mais.
 
