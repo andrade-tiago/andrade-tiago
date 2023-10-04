@@ -8,5 +8,5 @@
 - :sparkles: UI/UX intermediário;
 - :art: Front-end básico/intermediário, Bootstrap, jQuery;
 - :coffee: Back-end básico (PHP + MySQL);
-- :school_satchel: Também já desenvolvi em Scratch (pela experiência) e vi conceitos básicos de C e Java;
+- :school_satchel: Também já me aventurei em Scratch (pela experiência) e vi conceitos básicos de C e Java;
 - :bust_in_silhouette: Soft skills.
