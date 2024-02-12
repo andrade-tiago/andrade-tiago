@@ -5,7 +5,8 @@
 
 ## Habilidades
 - :unlock: Lógica de programação intermediária;
-- :sparkles: UI/UX intermediário;
-- :art: Front-end básico/intermediário, Bootstrap, jQuery;
+- :sparkles: UI/UX básico;
+- :art: Front-end básico/intermediário, React.js, Bootstrap, jQuery;
 - :coffee: Back-end básico (PHP + MySQL);
-- :school_satchel: Também já me aventurei em Scratch (pela experiência) e vi conceitos básicos de C e Java.
+- :school_satchel: Também já me aventurei em Scratch (pela experiência) e vi conceitos básicos de C e Java;
+- :book: Aprendendo TypeScript.
