@@ -8,5 +8,5 @@
 - :sparkles: UI/UX básico;
 - :art: Front-end básico/intermediário, React.js, Bootstrap, jQuery;
 - :coffee: Back-end básico (PHP + MySQL);
-- :school_satchel: Também já me aventurei em Scratch (pela experiência) e vi conceitos básicos de C e Java;
-- :book: Aprendendo TypeScript.
+- :school_satchel: Já estudei Java básico e TypeScript;
+- :book: Aprendendo Kotlin + Jetpack Compose para a ciração de aplicações Android.
