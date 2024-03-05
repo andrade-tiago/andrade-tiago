@@ -9,4 +9,4 @@
 - :art: Front-end básico/intermediário, React.js, Bootstrap, jQuery;
 - :coffee: Back-end básico (PHP + MySQL);
 - :school_satchel: Já estudei Java básico e TypeScript;
-- :book: Aprendendo Kotlin + Jetpack Compose para a ciração de aplicações Android.
+- :book: Aprendendo Kotlin + Jetpack Compose para a criação de aplicações Android.
