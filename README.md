@@ -43,8 +43,6 @@ Me chamo **Tiago Andrade**, mas meus amigos (sim..., e-eu tenho alguns...) me ch
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="Jetpack Compose" title="Jetpack Compose" />
 </div>
 
-<hr />
-
 ## Minha relação com a programação
 Acredito que falar de mim é também falar de meu envolvimento com programação e desenvolvimento. Sou apaixonado por matemática, física, escrita e poesia, astronomia, música (principalmente de concerto), filosofia, fotografia... ufa!
 
