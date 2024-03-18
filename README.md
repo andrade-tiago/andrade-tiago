@@ -45,9 +45,6 @@ Me chamo **Tiago Andrade**, mas meus amigos (sim..., e-eu tenho alguns...) me ch
 
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrade-tiago&theme=gruvbox&hide_border=true&locale=pt-br&layout=pie)
-![Tiago Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrade-tiago&show_icons=true&theme=gruvbox&hide_border=true&locale=pt-br)
-
 ## Minha relação com a programação
 Acredito que falar de mim é também falar de meu envolvimento com programação e desenvolvimento. Sou apaixonado por matemática, física, escrita e poesia, astronomia, música (principalmente de concerto), filosofia, fotografia... ufa!
 
