@@ -42,8 +42,3 @@ Me chamo **Tiago Andrade**, mas meus amigos (sim..., e-eu tenho alguns...) me ch
 	<img src="https://github.com/mkole/tech-icons/blob/main/icons/kotlin/kotlin-original.svg" height="60" alt="Kotlin" title="Kotlin" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="Jetpack Compose" title="Jetpack Compose" />
 </div>
-
-## Minha relação com a programação
-Acredito que falar de mim é também falar de meu envolvimento com programação e desenvolvimento. Sou apaixonado por matemática, física, escrita e poesia, astronomia, música (principalmente de concerto), filosofia, fotografia... ufa!
-
-Encontro um tanto de cada uma dessas coisas em meio às linhas de código. A tentativa da linguagem de representar o mundo por meio de conceitos como a orientação a objetos me lembra bastante o que faz a física, por intermédio da matemática, em sua tentativa de interpretá-lo. Sua estruturação quase que poética, semelhante a versos (linhas) e estrofes (funções), me encanta! E o que é uma partitura senão a notação de uma linguagem? Da mesma forma é preciso compreender e estruturar toda a complexidade do sistema para que tudo seja orquestrado corretamente. E cá estou eu a filosofar sobre a relação entre meus gostos e intruções computacionais... além disso, os céus não são o limite, pois como diria um sábio macaco, é preciso olhar além do que você vê, para se encontrar aquilo que se procura.
