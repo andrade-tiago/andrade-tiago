@@ -30,6 +30,7 @@ Me chamo **Tiago Andrade**, mas meus amigos (sim..., e-eu tenho alguns...) me ch
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" title="MySQL" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="60" alt="React.js" title="React.js" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="60" alt="Vite" title="Vite" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" title="TypeScript" />
 </div>
 
 ### Também já estudei...
@@ -37,7 +38,6 @@ Me chamo **Tiago Andrade**, mas meus amigos (sim..., e-eu tenho alguns...) me ch
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="60" alt="Java" title="Java" />
 	<img src="https://github.com/mkole/tech-icons/blob/main/icons/php/php-plain.svg" height="60" alt="PHP" title="PHP" />
 	<img src="https://github.com/mkole/tech-icons/blob/main/icons/c/c-language-original.svg" height="60" alt="C language" title="C language" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" title="TypeScript" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="60" alt="Sass" title="Sass" />
 	<img src="https://github.com/mkole/tech-icons/blob/main/icons/kotlin/kotlin-original.svg" height="60" alt="Kotlin" title="Kotlin" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="Jetpack Compose" title="Jetpack Compose" />
