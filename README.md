@@ -1,8 +1,8 @@
 # :wave: Ahoy! Como vai?
-Me chamo **Tiago Andrade**, mas meus amigos (sim..., e-eu tenho alguns...) me chamam simplesmente de "Tio".
+Me chamo **Tiago Andrade**.
 
 - :briefcase: Em busca de oportunidades
-- :book: Atualmente estudando Kotlin + Jetpack Compose utilizando o Android Studio
+- :book: Atualmente trabalhando num sistema que utiliza como back-end uma API REST em Node + TypeScript + ORM Prisma, front-end React + TypeScript + TailWind CSS e conhecendo um pouco do mundo mobile utilizando React Native + Expo + NativeWind (aprendendo muito!)
 - :raised_hand: _May de force be with you!_
 
 ## Contato
