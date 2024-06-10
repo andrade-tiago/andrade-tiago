@@ -2,12 +2,12 @@
 Me chamo **Tiago Andrade**.
 
 - :briefcase: Em busca de oportunidades
-- :book: Atualmente trabalhando no front-end de uma [plataforma](https://github.com/andrade-tiago/flix.vault-front) de catálogo de filmes, utilizando React + TypeScript + Vite + Tailwind CSS
-- :raised_hand: _May de force be with you!_
+- :book: Atualmente trabalhando no front-end de uma [plataforma](https://github.com/andrade-tiago/flix.vault-front) de catálogo de filmes, utilizando React.js + TypeScript + Vite + Tailwind CSS
+- :raised_hand: _May the force be with you!_
 
 ## Contato
 - :mailbox: E-mail: [tiagoandradedejoao@gmail.com](mailto:tiagoandradedejoao@gmail.com)
-- :speech_balloon: [Telefone](tel:11947961704) e [WhatsApp](https:wa.me/5511947961704) (preferência): +55 11 94796-1704
+- :speech_balloon: [Telefone](tel:11947961704) e [WhatsApp](https:wa.me/5511947961704): +55 11 94796-1704
 - :computer: LinkedIn: [andrade-tiago](https://www.linkedin.com/in/andrade-tiago)
 
 ## Formação
