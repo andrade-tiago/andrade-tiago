@@ -1,5 +1,6 @@
-# :wave: Ahoy! Como vai?
-Me chamo **Tiago Andrade**.
+![](./assets/banner.png)
+
+# :wave: Ahoy! Me chamo **Tiago Andrade**
 
 - :briefcase: Em busca de oportunidades
 - :book: Atualmente trabalhando no front-end de uma [plataforma](https://github.com/andrade-tiago/flix.vault-front) de catálogo de filmes, utilizando React.js + TypeScript + Vite + Tailwind CSS
