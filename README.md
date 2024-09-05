@@ -6,7 +6,7 @@
 
 ## Contato
 - :mailbox: E-mail: [tiagoandradedejoao@gmail.com](mailto:tiagoandradedejoao@gmail.com)
-- :speech_balloon: [Telefone](tel:11947961704) e [WhatsApp](https:wa.me/5511947961704): +55 11 94796-1704
+- :speech_balloon: [Telefone](tel:11947961704) e [WhatsApp](https://wa.me/5511947961704): +55 11 94796-1704
 - :computer: LinkedIn: [andrade-tiago](https://www.linkedin.com/in/andrade-tiago)
 
 ## Formação
