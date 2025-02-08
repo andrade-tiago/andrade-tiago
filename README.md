@@ -12,27 +12,20 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 <div>
   <img height="40px" alt="HTML" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" />
   <img height="40px" alt="CSS" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" />
-  <img height="40px" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
-	" />
+  <img height="40px" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
   <img height="40px" alt="TypeScript" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
-  <img height="40px" alt="NPM" title="NPM" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png
-	" />
+  <img height="40px" alt="NPM" title="NPM" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" />
 	<img height="40px" alt="React" title="React" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
-	<img height="40px" alt="React Query" title="React Query" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png
-	" />
-	<img height="40px" alt="SCSS/Sass" title="SCSS/Sass" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png
-	" />
+	<img height="40px" alt="React Query" title="React Query" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" />
+	<img height="40px" alt="SCSS/Sass" title="SCSS/Sass" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" />
 	<img height="40px" alt="Bootstrap" title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
-	<img height="40px" alt="Styled-components" title="Styled-components" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png
-	" />
-	<img height="40px" alt="Tailwind CSS" title="Tailwind CSS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png
-	" />
+	<img height="40px" alt="Styled-components" title="Styled-components" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png" />
+	<img height="40px" alt="Tailwind CSS" title="Tailwind CSS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" />
 	<img height="40px" alt="jQuery" title="jQuery" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" />
 	<img height="40px" alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
 	<img height="40px" alt="GitHub" title="GitHub" src="https://static-00.iconduck.com/assets.00/github-icon-512x500-5s4lrnpv.png" />
 	<img height="40px" alt="NodeJS" title="NodeJS" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" />
-	<img height="40px" alt="React Native" title="React Native" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png
-	" />
+	<img height="40px" alt="React Native" title="React Native" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
 </div>
 
 ## Aprendendo...
