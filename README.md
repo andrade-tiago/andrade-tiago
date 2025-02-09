@@ -4,7 +4,9 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 
 - :heart: Apaixonado por música :musical_keyboard:, fotografia :camera:, astronomia :telescope:, filosofia :thought_balloon: e, claro, muito código :computer:.
 
-- :unlock: Em busca de oportunidades :grey_exclamation:
+- :unlock: Em busca de oportunidades...
+
+- :shipit: Disponível para contratação! Contate-me para que possamos construir o futuro juntos! :dart:
 
 - :octocat: _May the force be with you!_
 
