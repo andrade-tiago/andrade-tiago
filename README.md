@@ -28,7 +28,7 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 	<img height="40px" alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
 	<img height="40px" alt="GitHub" title="GitHub" src="https://static-00.iconduck.com/assets.00/github-icon-512x500-5s4lrnpv.png" />
 	<img height="40px" alt="NodeJS" title="NodeJS" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" />
-	<img height="40px" alt="React Native" title="React Native" src="https://goldeneagle.ai/static/images/technology/react.png" />
+	<img height="40px" alt="React Native" title="React Native" src="./img/tech/react.webp" />
 	<img height="40px" alt="Zustand" title="Zustand" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" />
 </div>
 
