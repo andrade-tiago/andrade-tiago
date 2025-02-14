@@ -19,6 +19,7 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
   <img height="40px" alt="NPM" title="NPM" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" />
   <img height="40px" alt="Vite" title="Vite" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" />
 	<img height="40px" alt="React" title="React" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
+	<img height="40px" alt="React Router DOM" title="React Router DOM" src="https://www.svgrepo.com/show/354262/react-router.svg" />
 	<img height="40px" alt="React Query" title="React Query" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" />
 	<img height="40px" alt="SCSS/Sass" title="SCSS/Sass" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" />
 	<img height="40px" alt="Bootstrap" title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
@@ -28,7 +29,8 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 	<img height="40px" alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
 	<img height="40px" alt="GitHub" title="GitHub" src="https://static-00.iconduck.com/assets.00/github-icon-512x500-5s4lrnpv.png" />
 	<img height="40px" alt="NodeJS" title="NodeJS" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" />
-	<img height="40px" alt="React Native" title="React Native" src="./img/tech/react.webp" />
+	<img height="40px" alt="React Native" title="React Native" src="./img/tech/react-native.webp" />
+	<img height="40px" alt="Expo Router" title="Expo Router" src="./img/tech/expo.svg" />
 	<img height="40px" alt="Zustand" title="Zustand" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" />
 </div>
 
