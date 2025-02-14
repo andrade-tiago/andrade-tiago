@@ -21,6 +21,8 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 	<img height="40px" alt="React" title="React" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
 	<img height="40px" alt="React Router DOM" title="React Router DOM" src="https://www.svgrepo.com/show/354262/react-router.svg" />
 	<img height="40px" alt="React Query" title="React Query" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" />
+	<img height="40px" alt="React Hook Form" title="React Hook Form" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" />
+	<img height="40px" alt="Zod" title="Zod" src="https://zod.dev/logo.svg" />
 	<img height="40px" alt="SCSS/Sass" title="SCSS/Sass" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" />
 	<img height="40px" alt="Bootstrap" title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
 	<img height="40px" alt="Styled-components" title="Styled-components" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png" />
