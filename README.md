@@ -66,7 +66,7 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 			<img height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHHD0ufmK1WAiwukpR-AztrqG7AFZwJ2g_A&s" />
 		</td>
 		<td>
-			<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHHD0ufmK1WAiwukpR-AztrqG7AFZwJ2g_A&s">Certificações na Alura</a>
+			<a href="https://cursos.alura.com.br/user/andrade-tiago">Certificações na Alura</a>
 		</td>
 	</tr>
 </table>
