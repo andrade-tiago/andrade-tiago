@@ -18,6 +18,7 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
   <img height="40px" alt="TypeScript" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
   <img height="40px" alt="NPM" title="NPM" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" />
   <img height="40px" alt="Vite" title="Vite" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" />
+  <img height="40px" alt="Vitest" title="Vitest" src="https://vitest.dev/logo.svg" />
 	<img height="40px" alt="React" title="React" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
 	<img height="40px" alt="React Router DOM" title="React Router DOM" src="https://www.svgrepo.com/show/354262/react-router.svg" />
 	<img height="40px" alt="React Query" title="React Query" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" />
