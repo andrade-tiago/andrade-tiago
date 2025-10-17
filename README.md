@@ -35,11 +35,6 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 	<img height="40px" alt="React Native" title="React Native" src="./img/tech/react-native.webp" />
 	<img height="40px" alt="Expo Router" title="Expo Router" src="./img/tech/expo.svg" />
 	<img height="40px" alt="Zustand" title="Zustand" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" />
-</div>
-
-## Aprendendo...
-
-<div>
 	<img height="40px" alt="C#" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" />
 </div>
 
