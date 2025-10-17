@@ -30,7 +30,7 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 	<img height="40px" alt="Tailwind CSS" title="Tailwind CSS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" />
 	<img height="40px" alt="jQuery" title="jQuery" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" />
 	<img height="40px" alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
-	<img height="40px" alt="GitHub" title="GitHub" src="https://static-00.iconduck.com/assets.00/github-icon-512x500-5s4lrnpv.png" />
+	<img height="40px" alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/250px-GitHub_Invertocat_Logo.svg.png" />
 	<img height="40px" alt="NodeJS" title="NodeJS" src="https://www.myqnap.org/wp-content/uploads/nodejs-logo.gif" />
 	<img height="40px" alt="React Native" title="React Native" src="./img/tech/react-native.webp" />
 	<img height="40px" alt="Expo Router" title="Expo Router" src="./img/tech/expo.svg" />
