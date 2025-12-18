@@ -43,6 +43,7 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 	<img height="40px" alt="C#" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" />
 	<img height="40px" alt="Docker" title="Docker" src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav-512x404.png" />
 	<img height="40px" alt="Docker Compose" title="Docker Compose" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker-compose.png" />
+	<img height="40px" alt="JWT" title="JWT" src="https://static.cdnlogo.com/logos/j/20/jwt_thumb.png" />
 </div>
 
 ## Formações
