@@ -19,7 +19,7 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
   <img height="40px" alt="NPM" title="NPM" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" />
   <img height="40px" alt="PNPM" title="PNPM" src="https://iconlogovector.com/uploads/images/2025/01/lg-677a5e3b8f77b-pNpm.webp" />
   <img height="40px" alt="Vite" title="Vite" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" />
-  <img height="40px" alt="Vitest" title="Vitest" src="https://vitest.dev/logo.svg" />
+  <img height="40px" alt="Vitest" title="Vitest" src="https://images.seeklogo.com/logo-png/43/2/vitest-logo-png_seeklogo-434979.png" />
 	<img height="40px" alt="React" title="React" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
 	<img height="40px" alt="React Router DOM" title="React Router DOM" src="https://www.svgrepo.com/show/354262/react-router.svg" />
 	<img height="40px" alt="Tanstack Query (React Query)" title="Tanstack Query (React Query)" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" />
