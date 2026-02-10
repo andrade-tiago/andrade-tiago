@@ -1,16 +1,18 @@
-# Ahoy, eu sou Tiago Andrade — @andrade-tiago
+# Ahoy, eu sou Tiago Andrade :wave:
+*Desenvolvedor Full Stack / Programador*
 
-Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre proporcionar a melhor experiência do usuário, meu foco está na acessibilidade e otimização, assegurando uma melhor interação com os sistemas :rocket::sparkles:.
+<img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" align="right" width="200px" />
 
-- :heart: Apaixonado por música :musical_keyboard:, fotografia :camera:, astronomia :telescope:, filosofia :thought_balloon: e, claro, muito código :computer:.
+Sou um Desenvolvedor Full Stack apaixonado por solucionar problemas através da tecnologia. Estou sempre buscando as tecnologias mais modernas e acompanhando as tendências do mercado. Além disso, minha visão vai muito além do código: penetra o negócio e preza pelo cliente, focando em escalabilidade, otimização e acessibilidade. :dart:
+
 
 - :unlock: Em busca de oportunidades...
-
-- :shipit: Disponível para contratação! Contate-me para que possamos construir o futuro juntos! :dart:
-
+- :shipit: Disponível para contratação! Contate-me e vamos juntos construir o futuro! :fire::rocket:
 - :octocat: _May the force be with you!_
 
-## Tecnologias
+<hr />
+
+## :computer: Stacks
 <div>
   <img height="40px" alt="HTML" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" />
   <img height="40px" alt="CSS" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" />
@@ -47,7 +49,7 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 	<img height="40px" alt="RabbitMQ" title="RabbitMQ" src="https://miro.medium.com/v2/1*DYo46Vsvc5vFo6mR9I3piQ.png" />
 </div>
 
-## Formações
+## :mortar_board: Formações
 
 <table>
 	<tr>
@@ -76,7 +78,7 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 	</tr>
 </table>
 
-## Contato
+## :iphone: Contato
 
 <table>
 	<tr>
