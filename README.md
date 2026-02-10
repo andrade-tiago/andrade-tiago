@@ -3,7 +3,11 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/5338/5338322.png" align="right" width="200px" />
 
-Sou um Desenvolvedor Full Stack apaixonado por solucionar problemas através da tecnologia. Estou sempre buscando as tecnologias mais modernas e acompanhando as tendências do mercado. Além disso, minha visão vai muito além do código: penetra o negócio e preza pelo cliente, focando em escalabilidade, otimização e acessibilidade. :dart:
+Sou um Desenvolvedor Full Stack apaixonado por solucionar problemas através da tecnologia.
+
+Estou sempre buscando as tecnologias mais modernas e acompanhando as tendências do mercado.
+
+Além disso, minha visão vai muito além do código: penetra o negócio e preza pelo cliente, focando em escalabilidade, otimização e acessibilidade. :dart:
 
 
 - :unlock: Em busca de oportunidades...
