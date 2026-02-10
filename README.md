@@ -44,6 +44,7 @@ Sou um desenvolvedor full stack sempre buscando inovações. Procurando sempre p
 	<img height="40px" alt="Docker" title="Docker" src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav-512x404.png" />
 	<img height="40px" alt="Docker Compose" title="Docker Compose" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker-compose.png" />
 	<img height="40px" alt="JWT" title="JWT" src="https://static.cdnlogo.com/logos/j/20/jwt_thumb.png" />
+	<img height="40px" alt="RabbitMQ" title="RabbitMQ" src="https://miro.medium.com/v2/1*DYo46Vsvc5vFo6mR9I3piQ.png" />
 </div>
 
 ## Formações
