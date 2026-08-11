@@ -18,10 +18,10 @@ Além disso, minha visão vai muito além do código: penetra o negócio e preza
 
 ## :computer: Stacks
 <div>
-  <img height="40px" alt="HTML" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" />
-  <img height="40px" alt="CSS" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" />
+  <img height="40px" alt="HTML" title="HTML" src="https://images.icon-icons.com/112/PNG/512/html5_18891.png" />
+  <img height="40px" alt="CSS" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" />
   <img height="40px" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
-  <img height="40px" alt="TypeScript" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
+  <img height="40px" alt="TypeScript" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png" />
   <img height="40px" alt="NPM" title="NPM" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" />
   <img height="40px" alt="PNPM" title="PNPM" src="https://iconlogovector.com/uploads/images/2025/01/lg-677a5e3b8f77b-pNpm.webp" />
   <img height="40px" alt="Vite" title="Vite" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" />
@@ -37,7 +37,7 @@ Além disso, minha visão vai muito além do código: penetra o negócio e preza
 	<img height="40px" alt="Tailwind CSS" title="Tailwind CSS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" />
 	<img height="40px" alt="shadcn/ui" title="shadcn/ui" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" />
 	<img height="40px" alt="jQuery" title="jQuery" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" />
-	<img height="40px" alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
+	<img height="40px" alt="Git" title="Git" src="https://avatars.githubusercontent.com/u/18133" />
 	<img height="40px" alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/250px-GitHub_Invertocat_Logo.svg.png" />
 	<img height="40px" alt="NodeJS" title="NodeJS" src="https://www.myqnap.org/wp-content/uploads/nodejs-logo.gif" />
 	<img height="40px" alt="NestJS" title="NestJS" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" />
@@ -46,7 +46,7 @@ Além disso, minha visão vai muito além do código: penetra o negócio e preza
 	<img height="40px" alt="React Native" title="React Native" src="./img/tech/react-native.webp" />
 	<img height="40px" alt="Expo Router" title="Expo Router" src="./img/tech/expo.svg" />
 	<img height="40px" alt="Zustand" title="Zustand" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" />
-	<img height="40px" alt="C#" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" />
+	<img height="40px" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/csharp.webp" />
 	<img height="40px" alt="Docker" title="Docker" src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav-512x404.png" />
 	<img height="40px" alt="Docker Compose" title="Docker Compose" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker-compose.png" />
 	<img height="40px" alt="JWT" title="JWT" src="https://static.cdnlogo.com/logos/j/20/jwt_thumb.png" />
@@ -97,7 +97,7 @@ Além disso, minha visão vai muito além do código: penetra o negócio e preza
 	</tr>
 	<tr>
 		<td align="center">
-			<img height="30px" alt="E-mail" title="E-mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
+			<img height="30px" alt="E-mail" title="E-mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" />
 		</td>
 		<td>
 			<a href="mailto:tiagoandradedejoao@gmail.com" target="_blank">
